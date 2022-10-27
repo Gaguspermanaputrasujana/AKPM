@@ -13,5 +13,5 @@ with open("text.txt",'w') as g:
     g.write(lines)
 
 print('finished')
-n=2
+n=23
 print(n)
