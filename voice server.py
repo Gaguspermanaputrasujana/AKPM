@@ -7,7 +7,7 @@ audio,context= ps.audioCapture(mode=mode)
 #ps.showPlot(context,name)
 
 # Socket Create
-server_socket = socket.socket(son cket.AF_INET,socket.SOCK_STREAM)
+server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 host_ip = '192.168.1.105'
 port = 4982
 backlog = 5
